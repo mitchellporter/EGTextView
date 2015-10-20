@@ -28,7 +28,7 @@ self.view.addSubview(textview)
 
 For more advanced control of the placeholder, you can set the `placeHolder` property instead. See the [header](EGTextView/EGTextView/EGTextView.swift) for full documentation.
 
-There are also Objective-C version:   [EIGTextView](https://github.com/eggswift/EGTextView)
+There are also Objective-C version:   [EIGTextView](https://github.com/LiHaofromChina/EIGTextView)
 
 ### Supports: 
 
