@@ -1,6 +1,6 @@
 ## EIGTextView
 
-UITextView subclasses with an attributed placeholder that change into floating labels when the fields are populated with text.Released under the [MIT license](LICENSE.txt).
+Swift! Custom UITextView for adjust height with the text content size. Solve Chinese characters‘s content offset problem. Also have an attributed placeholder. Released under the [MIT license](LICENSE.txt).
 
 
 *Used by millions of people in the their apps!* Is your app using it? [Let me know!](mailto:lihao_ios@hotmail.com)
@@ -36,4 +36,4 @@ ARC & iOS 7+, Autolayout or springs and struts
 
 ## Installation
 
-Simply add the files in the `EIGTextView.swift` to your project or add `EIGTextView` to your Podfile if you're using CocoaPods.
+Simply add the files in the `EGTextView.swift` to your project or add `EGTextView` to your Podfile if you're using CocoaPods.
